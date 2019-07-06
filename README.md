@@ -1,5 +1,5 @@
 # attention_all (NLP)
-各种attention的keras实现
+各种attention的keras实现（暂4种）
 
 1 soft-attention-alignment
 
